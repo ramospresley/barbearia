@@ -1,0 +1,25 @@
+# Arquivos de configuração local
+.env
+.vscode/
+.idea/
+
+# Arquivos do sistema
+*.log
+*.lock
+*.cache
+
+# Pastas de dependências (se houver)
+vendor/
+node_modules/
+
+# Arquivos do XAMPP/ambiente local
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# Arquivos de banco de dados (opcional - não subir se tiver dados reais)
+# sql/database.sql (remova o # se não quiser subir o SQL)
+
+# Logs
+*.log

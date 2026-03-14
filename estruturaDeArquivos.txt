@@ -1,0 +1,34 @@
+barbershop/
+├── webhook/                    # NOVA PASTA
+│   └── whatsapp-webhook.php    # Webhook para WhatsApp
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+├── config/
+│   ├── database.php
+│   └── jwt.php
+├── includes/
+│   ├── auth.php
+│   ├── sms.php
+│   ├── functions.php
+│   └── WhatsApp.php            # NOVO ARQUIVO
+├── api/
+│   ├── login.php
+│   ├── agendamentos.php
+│   ├── horarios.php
+│   ├── sms.php
+│   └── whatsapp.php            # NOVO ARQUIVO
+├── admin/
+│   └── dashboard.php
+├── sql/
+│   ├── database.sql
+│   └── update_whatsapp.sql     # NOVO ARQUIVO
+├── .env 
+├── estruturaDeArquivos.txt     # NOVO ARQUIVO
+├── index.php
+├── login.php
+├── agendar.php
+└── .htaccess
