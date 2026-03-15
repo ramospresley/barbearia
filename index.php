@@ -26,8 +26,8 @@ $servicos = $stmt->fetchAll();
     <!-- Cabeçalho com estilo barbearia americana -->
     <header class="header">
         <div class="container">
-            <h1>✂️ BARBERSHOP PREMIUM</h1>
-            <p>Traditional Barber Shop • Est. 2024</p>
+            <h1>✂️ BARBEARIA PREMIUM</h1>
+            <p>Barbearia Traditional desde 2010</p>
             <div class="header-decoration">
                 <span class="decoration-line"></span>
                 <span class="decoration-icon">⚜️</span>
