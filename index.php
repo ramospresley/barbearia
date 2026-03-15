@@ -27,7 +27,7 @@ $servicos = $stmt->fetchAll();
     <header class="header">
         <div class="container">
             <h1>✂️ BARBEARIA PREMIUM</h1>
-            <p>Barbearia Traditional desde 2010</p>
+            <p>Barbearia Tradicional desde 2010</p>
             <div class="header-decoration">
                 <span class="decoration-line"></span>
                 <span class="decoration-icon">⚜️</span>
