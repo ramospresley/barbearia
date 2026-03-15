@@ -18,7 +18,7 @@ $servicos = $stmt->fetchAll();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Barbearia Premium - Agendamento Online</title>
+    <title>Barbearia Premium</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
@@ -27,7 +27,7 @@ $servicos = $stmt->fetchAll();
     <header class="header">
         <div class="container">
             <h1>✂️ BARBEARIA PREMIUM</h1>
-            <p>Barbearia Tradicional desde 2010</p>
+            <p>Barbearia Tradicional desde 2010 - Agendamento Online</p>
             <div class="header-decoration">
                 <span class="decoration-line"></span>
                 <span class="decoration-icon">⚜️</span>
